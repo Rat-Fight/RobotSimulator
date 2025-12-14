@@ -9,16 +9,27 @@ RobotSimulator is designed so that drivers can practice robot driving, autonomou
 ## Project Structure
 
 RobotSimulator/
+<br>
 ├── simulator/
+<br>
 │ ├── index.html
+<br>
 │ ├── js/
+<br>
 │ │ ├── main.js
+<br>
 │ │ └── ...
+<br>
 │ ├── css/
+<br>
 │ │ └── ...
+<br>
 │ └── assets/
+<br>
 │ └── ...
+<br>
 ├── LICENSE
+<br>
 └── README.md
 
 
@@ -39,6 +50,7 @@ RobotSimulator/
 To use the simulator locally, follow these steps:
 
 1. **Clone the repository**
+
 git clone https://github.com/Rat-Fight/RobotSimulator.git
 
 
