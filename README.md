@@ -96,5 +96,4 @@ Be sure to follow any existing coding standards used in the project.
 
 ## License
 
-This project is licensed under the **Apache-2.0 License**. :contentReference[oaicite:0]{index=0}
-
+This project is licensed under the **Apache-2.0 License**
